@@ -7,4 +7,4 @@ Custom resume website built with Django for a friend.
 - `Django Resume Website/`
 - `My Design/`
 
-Historical learning or early-career work, preserved privately for reference.
+Historical learning or early-career work, preserved for reference.
